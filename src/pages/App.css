@@ -1,0 +1,39 @@
+:root {
+  --one-rem: 1rem;
+  --border-radius-standard: 6px;
+}
+
+.product-card {
+  border-radius: var(--border-radius-standard);
+  box-shadow: rgba(101, 106, 118, 0.15) 0px 0px 0px 1px,
+    rgba(101, 106, 118, 0.1) 0px 2px 3px 0px,
+    rgba(101, 106, 118, 0.2) 0px 8px 16px -10px;
+  transition: 0.3s;
+  width: 40%;
+  margin: var(--one-rem) 0;
+  padding: var(--one-rem);
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+a {
+  text-decoration: none;
+}
+
+.back-to-top-btn {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  border: none;
+  border-radius: var(--border-radius-standard);
+  padding: 0.5rem;
+  background-color: #008000;
+  color: white;
+  cursor: pointer;
+}
+
+.back-to-top-btn:hover {
+  background-color: #006400;
+}

@@ -1,11 +1,8 @@
-export type Product = {
+export type ProductDetails = {
   id: string
   title: string
   rating?: number
   thumbnail?: string
-}
-
-export type ProductDetails = Product & {
   description: string
   category: string
   price: number

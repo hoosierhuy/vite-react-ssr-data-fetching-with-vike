@@ -1,9 +1,0 @@
-.product-card {
-  border-radius: var(--border-radius-standard);
-  box-shadow: rgba(101, 106, 118, 0.15) 0px 0px 0px 1px,
-    rgba(101, 106, 118, 0.1) 0px 2px 3px 0px,
-    rgba(101, 106, 118, 0.2) 0px 8px 16px -10px;
-  transition: 0.3s;
-  margin: var(--one-rem) 0;
-  padding: var(--one-rem);
-}

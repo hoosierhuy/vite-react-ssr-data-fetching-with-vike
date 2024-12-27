@@ -4,7 +4,7 @@ Vite/React SSR/Vike is another option to NextJS and Remix. In this repository, I
 
 ## Branches for this application
 
-### You are currently on the `main` branch
+### You are currently on the `project-start` branch
 
 The `main` branch for this is the completed version of the project. The `project-start` branch is a vanilla client side React/Vite application that uses TanStack Query to fetch data. The premise for this project is that you started with a client side Vite/React application and you want to convert it to a Vite/React SSR application using Vike.
 
