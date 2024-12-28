@@ -24,7 +24,11 @@ function Page() {
         <em>
           <strong>server</strong>
         </em>{' '}
-        side, and how to use that data to help with SEO.
+        side, and how to use that data to help with SEO, to include dynamically
+        setting the meta tag's description attribute to have the value of the
+        Product's description updated dynamically, and also dynamically setting
+        the page's html <em>title</em> tag to match the Product's title from the
+        API.
       </p>
     </>
   )
