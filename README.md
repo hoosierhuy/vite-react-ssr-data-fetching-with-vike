@@ -13,3 +13,5 @@ setting the meta tag's description attribute to have the value of the
 Product's description updated dynamically, and also dynamically setting
 the page's html title tag to match the Product's title from the
 API.
+
+If you would like to donate to my coffee fund: [https://www.buymeacoffee.com/huy_nguyen_usa](https://www.buymeacoffee.com/huy_nguyen_usa)
