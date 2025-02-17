@@ -14,4 +14,4 @@ Product's description updated dynamically, and also dynamically setting
 the page's html title tag to match the Product's title from the
 API.
 
-If you would like to donate to my coffee fund: [https://www.buymeacoffee.com/huy_nguyen_usa](https://www.buymeacoffee.com/huy_nguyen_usa)
+If you would like to contribute to me coffee fund: [Donate via PayPal](https://www.paypal.com/donate/?business=XNPNP5FWN4B2A&no_recurring=0&item_name=I+provide+free+computer+science+training+to+everyone&currency_code=USD)
